@@ -430,6 +430,4 @@ void CPU::print() {
    {
         std::cout << it.first << " " << *it.second << std::endl;
    }
-   //std::cout << "lable " << lable["aOOT:"] << std::endl;
-
 }
