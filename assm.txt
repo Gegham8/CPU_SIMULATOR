@@ -4,8 +4,8 @@ add r1, 1
 mov r5, 6
 mov r7, 2
 cmp r1, r5
-je poop
+je loop
 add r6, 7
-poop:
+loop:
 mov r9, 10
 add r1, 88
